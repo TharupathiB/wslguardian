@@ -50,7 +50,7 @@ Installation & Usage
 
 Run as a Windows Service
 
-bash
+```bash
 python wsl_guardian_service.py --install   # Install the service
 python wsl_guardian_service.py --start     # Start the service
 python wsl_guardian_service.py --stop      # Stop the service
