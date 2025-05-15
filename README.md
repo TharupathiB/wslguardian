@@ -6,13 +6,13 @@ WSLGuardian
 
 Features
 
-- ✅ **Real-time monitoring** of WSL processes (`wsl.exe`, `bash.exe`, etc.)
-- 🧠 **Regex-based rule engine** to detect malicious command patterns (e.g., `nmap`, `netcat`, `curl`, reverse shells)
-- ❌ **Automatic process termination** for matched threats
-- 🧾 **Detailed structured logging** in JSON and plaintext formats (SIEM-ready)
-- 🔧 **Multithreaded architecture** with efficient resource use
-- 🛠️ **Runs as a persistent Windows service**
-- 🖥️ Optional **debug console mode** for testing and evaluation
+- Real-time monitoring** of WSL processes (`wsl.exe`, `bash.exe`, etc.)
+- Regex-based rule engine** to detect malicious command patterns (e.g., `nmap`, `netcat`, `curl`, reverse shells)
+- Automatic process termination** for matched threats
+- Detailed structured logging** in JSON and plaintext formats (SIEM-ready)
+- Multithreaded architecture** with efficient resource use
+- Runs as a persistent Windows service**
+- Optional **debug console mode** for testing and evaluation
 
 ---
 
